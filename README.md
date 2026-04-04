@@ -2,6 +2,14 @@
 
 ## Analise Programação de Socket UDP e TCP
 
+## Grupo
+
+Carlos Eduardo Diniz de Almeida - 10444407
+
+Tarik Nasser Ferreira Kanbour -
+
+Rafael Tessarotto -
+
 ### Questão 1
 Clique [aqui](./questao-1/README.md) para ver sobre a questão 1
 
