@@ -6,9 +6,9 @@
 
 Carlos Eduardo Diniz de Almeida - 10444407
 
-Tarik Nasser Ferreira Kanbour -
+Tarik Nasser Ferreira Kanbour - 10435895
 
-Rafael Tessarotto -
+Rafael Moutinho Tessarotto - 10395682
 
 ### Questão 1
 Clique [aqui](./questao-1/README.md) para ver sobre a questão 1
