@@ -31,4 +31,4 @@ UDP: O cliente envia normalmente, sem erro, o datagrama chega ao SO do servidor,
 ## Vídeos
 
 ### Questão 1 e 2
-Clique [aqui](./questao-3/README.md) para ver o vídeo sobre as questões 1 e 2
+Clique [aqui](https://youtu.be/dxQ9tjOpra4) para ver o vídeo sobre as questões 1 e 2
