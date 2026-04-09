@@ -7,4 +7,4 @@
 
 ## Vídeos
 
-Clique [aqui](./questao-3/README.md) para ver o vídeo sobre as questões 1 e 2
+Clique [aqui](https://youtu.be/-shwf2gu3gA) para ver o vídeo sobre as questões 1 e 2
