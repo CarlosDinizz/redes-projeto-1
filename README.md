@@ -25,4 +25,4 @@ Clique [aqui](./questao-3/README.md) para ver sobre a questão 3
 Clique [aqui](https://youtu.be/dxQ9tjOpra4) para ver o vídeo sobre as questões 1 e 2
 
 ### Questão 3
-Clique [aqui](./video-2/README.md) para ver o vídeo sobre a questão 3
+Clique [aqui](https://youtu.be/-shwf2gu3gA) para ver o vídeo sobre a questão 3
