@@ -22,7 +22,7 @@ Clique [aqui](./questao-3/README.md) para ver sobre a questão 3
 ## Vídeos
 
 ### Questão 1 e 2
-Clique [aqui](./video-1/README.md) para ver o vídeo sobre as questões 1 e 2
+Clique [aqui](https://youtu.be/dxQ9tjOpra4) para ver o vídeo sobre as questões 1 e 2
 
 ### Questão 3
 Clique [aqui](./video-2/README.md) para ver o vídeo sobre a questão 3
