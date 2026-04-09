@@ -7,7 +7,7 @@
 
 ## Vídeos
 
-Clique [aqui](./questao-3/README.md) para ver o vídeo sobre a questão 3
+Clique [aqui](https://youtu.be/-shwf2gu3gA) para ver o vídeo sobre a questão 3
 
 -----------------------------------------------------------------
 
